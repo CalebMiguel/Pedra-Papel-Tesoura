@@ -1,0 +1,14 @@
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\bin\Debug\net10.0\1°Game.exe
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\bin\Debug\net10.0\1°Game.deps.json
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\bin\Debug\net10.0\1°Game.runtimeconfig.json
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\bin\Debug\net10.0\1°Game.dll
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\bin\Debug\net10.0\1°Game.pdb
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\1°Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\1°Game.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\1°Game.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\1°Game.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\1°Game.dll
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\refint\1°Game.dll
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\1°Game.pdb
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\1°Game.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Documentos\Programação\MeuProjeto\1°Game\obj\Debug\net10.0\ref\1°Game.dll
